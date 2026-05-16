@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Core: Machine Learning • Neural Architectures • NLP<br>🛠️ Stack: Python • PyTorch • TensorFlow • Scikit-Learn<br>🏗️ Current Focus: LLM Pre-training, Sparse Attention, & Next-Gen Transformers<br>🧪 Deep Dive: High-performance kernels with Triton & Functional programming in JAX<br>💬 Let's talk: Model convergence at scale, memory-efficient attention, or latent space manifolds
+🧠 Core: Machine Learning • Neural Architectures • NLP<br>🛠️ Stack: Python • PyTorch • TensorFlow • Scikit-Learn<br>🏗️ Current Focus: LLM Pre-training, Sparse Attention, & Next-Gen Transformers<br>💬 Let's talk: Model convergence at scale, memory-efficient attention, or latent space manifolds
 
 
 # 💻 Tech Stack:
